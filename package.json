@@ -1,5 +1,5 @@
 {
-  "name": "palindrome",
+  "name": "palindrome-str",
   "version": "1.0.0",
   "description": "This package will check if a string is palindrome",
   "main": "index.js",
